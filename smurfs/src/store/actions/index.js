@@ -1,4 +1,4 @@
-import axiosd from 'axios';
+import axios from 'axios';
 
 export const FETCHING_SMURF_START = 'FETCHING_SMURF_START';
 export const FETCHING_SMURF_SUCCESS = 'FETCHING_SMURF_SUCCESS';
